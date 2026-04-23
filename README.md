@@ -1,6 +1,6 @@
 # 🚀 Portafolio Interactivo — Jenifer Gonzalez
 
-> App desplegada en Render → **[Ver portafolio en vivo](https://TU-LINK.streamlit.app)**
+> App desplegada en Render → **[Ver portafolio en vivo](https://portafolio-jenifer-gonzalez.onrender.com/)**
 
 Aplicación web interactiva que muestra dos mundos en un solo lugar: **QA Automation** y **Data Science**. Diseñada para que cualquier persona — técnica o no — pueda explorar mis proyectos sin necesidad de clonar nada ni ejecutar código.
 
